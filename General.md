@@ -5,6 +5,16 @@
 - Admission registration desk, incoming call services, and WhatsApp helpline are operating since January 18, 2024.
 - Venue of registration and counseling desk – Testing and Consultancy Cell (TCC)
 
+## <font color="red" style="animation: flash 1s infinite;">NEW</font>
+
+<style>
+    @keyframes flash {
+        0% { opacity: 1; }
+        50% { opacity: 0; }
+        100% { opacity: 1; }
+    }
+</style>
+
 ### REGISTRATION PROCESS
 
 - Admission website link – [admission.gndec.ac.in](https://admission.gndec.ac.in)
