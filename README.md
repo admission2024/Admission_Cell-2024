@@ -1,4 +1,3 @@
-## Admission 2024-25
 ## Guru Nanak Dev Engineering College, Ludhiana 
 
 # Admission Duty Information
