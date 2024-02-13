@@ -13,6 +13,7 @@
 - [Tuition Fee Waiver Scheme (for Punjab Residents only)](https://exam.gndec.ac.in/files/docs/cea/Fee_Waiver_2024.pdf)
 - [Admission Enquiry Numbers](Numbers.md)
 - [Admission Duty Order](DutyOrder.pdf)
+- [Supporting Staff Roster](SupportingStaff.md)
 - [Contact Us](Contact.md)
 
 
