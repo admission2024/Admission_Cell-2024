@@ -25,9 +25,9 @@
 - Online registration is accessible from any location. This service is also provided at the registration desk, wherein faculty deputed on the registration desk will register the candidate on the portal.
 - For all under-graduate courses (except B.Arch.) there is a registration fee of Rs. 200/- (non-refundable and non-adjustable).
 - Fees can be paid either online or offline.
-- Payments made offline should be submitted to Mr. Bhagwant Singh at the TCC Office.
+- Payments made offline should be deposited to Mr. Bhagwant Singh at the TCC Office.
 - Upon successful payment of fees, a mentor will be assigned to the candidate to provide guidance throughout the admission process.
-- If there are payment related issues, please reach out to Mrs. Inderpal Kaur from the Accounts Branch for assistance in resolving the matter.
+- If there are any payment related issues, please reach out to Mrs. Inderpal Kaur from the Accounts Branch for assistance in resolving the matter.
 
 ## Quick links
 
@@ -53,7 +53,7 @@
 - Maximum two attempts are allowed, out of which the best score will be considered for further process.
 - The candidate needs to report for the examination center with the latest passport size color photograph (two in number), a copy of the 10th class DMC, a copy of the admit card 10 + 2, and a copy of the Aadhar Card. The candidate must also be clear about his/her other eligibility parameters like: State Quota, Rural/Urban Quota, Category (wherever applicable) so that appropriate guidance can be provided.
 - The question paper will be in two languages (English and Punjabi). The maximum time allowed will be 30 minutes.
-- After attempting the SRE Examination and generating the scorecard, the candidate should submit the scorecard affixing his/her passport size photograph to the staff deputed for the examination.
+- After attempting the SRE Examination and generating the score-card, the candidate should submit the score-card affixing his/her passport size photograph to the staff deputed for the examination.
 
 ### Admission Enquiry Numbers
 
