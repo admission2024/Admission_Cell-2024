@@ -22,8 +22,8 @@
 ### REGISTRATION PROCESS
 
 - Admission website link – [admission.gndec.ac.in](https://admission.gndec.ac.in)
-- Online registration is accessible from any location. This service is also provided at the registration desk, wherein faculty deputed on the registration desk will register the candidate on the portal. For B.Tech (all branches), BCA, MCA BBA, and MBA, the Registration fee is Rs. 200/- (non-refundable and non-adjustable).
-- There is No registration fee for B.arch and M.tech Courses.
+- Online registration is accessible from any location. This service is also provided at the registration desk, wherein faculty deputed on the registration desk will register the candidate on the portal.
+- For all under-graduate courses (except B.Arch.) there is a registration fee of Rs. 200/- (non-refundable and non-adjustable).
 - Fees can be paid either online or offline.
 - Payments made offline should be submitted to Mr. Bhagwant Singh at the TCC Office.
 - Upon successful payment of fees, a mentor will be assigned to the candidate to provide guidance throughout the admission process.
