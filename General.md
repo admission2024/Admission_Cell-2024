@@ -5,7 +5,7 @@
 - Admission registration desk, incoming call services, and WhatsApp helpline are operating since January 18, 2024.
 - Venue of registration and counseling desk – Testing and Consultancy Cell (TCC)
 
-## <font color="red" style="animation: flash 1s infinite;">New Annoucemengts</font>
+## <font color="red" style="animation: flash 1s infinite;">New Announcements</font>
 
 <style>
     @keyframes flash {
