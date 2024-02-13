@@ -16,8 +16,8 @@
     }
 </style>
 
-- GNDEC is introducing a new branch, i.e. B.Tech. in Logistics and supply Chain Management, with a tentative intake of 20.
-- We may have an increase in the santioned intake of B.tech - CSE and IT by 60 each. (This will be confirmed, as and when finalized).
+- GNDEC is introducing a new branch, i.e. B.Tech. in Logistics and supply Chain Management.
+- We may have an increase in the sanctioned intake of B.tech - CSE and IT. (This will be confirmed, as and when finalized).
 
 ### REGISTRATION PROCESS
 
