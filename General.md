@@ -4,6 +4,7 @@
 
 - Admission registration desk, incoming call services, and WhatsApp helpline are operating since January 18, 2024.
 - Venue of registration and counseling desk – Testing and Consultancy Cell (TCC)
+- Registartion desk timings: 8:30 am to 12:30 pm (Morning Shift) & 12:30 pm to 4:30 pm (Evening Shift).
 
 ## <font color="red" style="animation: flash 1s infinite;">New Announcements</font>
 
@@ -53,5 +54,23 @@
 - The candidate needs to report for the examination center with the latest passport size color photograph (two in number), a copy of the 10th class DMC, a copy of the admit card 10 + 2, and a copy of the Aadhar Card. The candidate must also be clear about his/her other eligibility parameters like: State Quota, Rural/Urban Quota, Category (wherever applicable) so that appropriate guidance can be provided.
 - The question paper will be in two languages (English and Punjabi). The maximum time allowed will be 30 minutes.
 - After attempting the SRE Examination and generating the scorecard, the candidate should submit the scorecard affixing his/her passport size photograph to the staff deputed for the examination.
+
+### Admission Enquiry Numbers
+
+- Incoming Calls
+
+📞 [89685-53073](tel:89685-53073)  
+📞 [76967-71769](tel:76967-71769)  
+📞 [90414-95448](tel:90414-95448)  
+📞 [90415-57904](tel:90415-57904)  
+
+- WhatsApp Admission Helpline
+
+📱[73472-00448](tel:73472-00448)
+
+- SRE Enquiry
+
+📞 [90414-64904](tel:90414-64904)   
+
 
 | [Go Back](README.md) |
