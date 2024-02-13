@@ -10,6 +10,7 @@
 - [Fee Structure](https://admission.gndec.ac.in/Fee_Structure.php)
 - [SRE-2024](https://sre.gndec.ac.in/sre/blog/index.php?userid=2)
 - [Admission Enquiry Numbers](Numbers.md)
+- [Admission Duty Order](DutyOrder.pdf)
 - [Contact Us](Contact.md)
 
 
