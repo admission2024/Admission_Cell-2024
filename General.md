@@ -24,7 +24,7 @@
 - [Post Matric Scholarship (PMS)-SC Eligible (for Punjab Residents only)](https://exam.gndec.ac.in/files/docs/cea/PMS_SC_Scholarship_2024.pdf)
 - [Tuition Fee Waiver Scheme (for Punjab Residents only)](https://exam.gndec.ac.in/files/docs/cea/Fee_Waiver_2024.pdf)
 
-### LINK TO SIKH RELIGION EXAMINATION (SRE)
+### SIKH RELIGION EXAMINATION (SRE) - 2024
 
 - SRE link – [sre.gndec.ac.in](https://sre.gndec.ac.in)
 - Venue of SRE – Central Library, GNDEC.
@@ -40,3 +40,4 @@
 - The question paper will be in two languages (English and Punjabi). The maximum time allowed will be 30 minutes.
 - After attempting the SRE Examination and generating the scorecard, the candidate should submit the scorecard affixing his/her passport size photograph to the staff deputed for the examination.
 
+| [Go Back](README.md) |
