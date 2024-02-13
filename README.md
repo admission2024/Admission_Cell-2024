@@ -5,7 +5,7 @@
 _Disclaimer:_
 
 1. This website is to disseminate information _only to the staff of GNDEC on admission duty_ and **NOT** for the use of general public or admission aspirants.
-2. All efforts are made to keep information on this website updated. Any queries or feedback may be shared. 
+2. All efforts are made to keep information on this website updated. Any queries or feedback may be shared [here](Contact.md). 
 
 - [General](General.md)
 - [Courses Offered and Sanctioned Intake](https://gndec.ac.in/?q=courses)
