@@ -3,7 +3,7 @@
 # Admission Duty Information
 
 - [General](General.md)
-- [Courses Offeres and Sanctioned Intake](https://gndec.ac.in/?q=courses)
+- [Courses Offered and Sanctioned Intake](https://gndec.ac.in/?q=courses)
 - [Enquiry cum Registration module for admissions](https://admission.gndec.ac.in/)
 - [Important Documents](https://admission.gndec.ac.in/important_notices.php)
 - [Fee Structure](https://admission.gndec.ac.in/Fee_Structure.php)
