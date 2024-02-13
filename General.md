@@ -5,7 +5,7 @@
 - Admission registration desk, incoming call services, and WhatsApp helpline are operating since January 18, 2024.
 - Venue of registration and counseling desk – Testing and Consultancy Cell (TCC)
 
-## <font color="red" style="animation: flash 1s infinite;">NEW</font>
+## <font color="red" style="animation: flash 1s infinite;">New Annoucemengts</font>
 
 <style>
     @keyframes flash {
@@ -14,6 +14,9 @@
         100% { opacity: 1; }
     }
 </style>
+
+- GNDEC is introducing a new branch, i.e. B.Tech. in Logistics and supply Chain Management, with a tentative intake of 20.
+- We may have an increase in the santioned intake of B.tech - CSE and IT by 60 each. (This will be confirmed, as and when finalized).
 
 ### REGISTRATION PROCESS
 
