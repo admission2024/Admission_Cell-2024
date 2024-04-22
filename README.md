@@ -16,6 +16,7 @@ _Disclaimer:_
 - [Rural Reservation for B.Tech. 1st Year (for Punjab Residents only)](https://exam.gndec.ac.in/files/docs/cea/Rural_B.Tech._1st_Year_2024.pdf)
 - [Post Matric Scholarship (PMS)-SC Eligible (for Punjab Residents only)](https://exam.gndec.ac.in/files/docs/cea/PMS_SC_Scholarship_2024.pdf)
 - [Tuition Fee Waiver Scheme (for Punjab Residents only)](https://exam.gndec.ac.in/files/docs/cea/Fee_Waiver_2024.pdf)
+- [List of available Scholarships](GNDEC_Scholarships.pdf)
 - [Admission Enquiry Numbers](Numbers.md)
 - [Admission Duty Order](DutyOrder.pdf)
 - [Supporting Staff Roster](SupportingStaff.md)
