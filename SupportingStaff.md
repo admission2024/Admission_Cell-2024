@@ -12,7 +12,7 @@ Following staff are deputed on the duties as per the roster (for Weekdays/ Weeke
   - Mr. Jasbir Singh, CE, 30140 (Morning Shift - 8:30 am to 12:30 pm)
   - Mr. Kulvir Singh, ME, 30138 (Evening Shift - 12:30 pm to 4:30 pm)
  
-- From March 01, 2024 to April 15, 2024:
+- From April 16, 2024 to May 31, 2024:
 
   - Ms. Gagandeep Kaur, App. Sci., 30163 (Morning Shift - 8:30 am to 12:30 pm)
   - Mr. Kuldeep Singh, EE, 30131 (Evening Shift - 12:30 pm to 4:30 pm)
